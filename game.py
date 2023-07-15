@@ -1,3 +1,3 @@
 import pygame;
-pygame.init();
-print ("Hello World");
+pygame.init()
+print ("Hello World Eric")
